@@ -1,4 +1,4 @@
-// Á¶Àå ¸Þ¼¼Áö
+// ì¡°ìž¥ë©”ì„¸ì§€
 public class HelloWorld {
 
 	public static void main(String[] args) {
