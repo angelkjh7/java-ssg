@@ -1,5 +1,4 @@
-//아니야
-// 이거야 조원!
+//조원메세지
 public class HelloWorld {
 
 	public static void main(String[] args) {
