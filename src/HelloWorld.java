@@ -1,4 +1,4 @@
-// 화이팅!!
+// 조장 메세지
 public class HelloWorld {
 
 	public static void main(String[] args) {
